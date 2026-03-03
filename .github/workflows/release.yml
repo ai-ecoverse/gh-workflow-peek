@@ -50,7 +50,7 @@ jobs:
           Install the extension using the GitHub CLI:
           
           ```bash
-          gh extension install trieloff/gh-workflow-peek
+          gh extension install ai-ecoverse/gh-workflow-peek
           ```
           
           ## Upgrade
@@ -63,7 +63,7 @@ jobs:
           
           ## What's New
           
-          See the [README](https://github.com/trieloff/gh-workflow-peek) for full documentation and examples.
+          See the [README](https://github.com/ai-ecoverse/gh-workflow-peek) for full documentation and examples.
           
           ### Requirements
           

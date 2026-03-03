@@ -29,7 +29,7 @@ This guide explains how to publish `gh-workflow-peek` as a GitHub CLI extension.
 Test that the extension can be installed:
 
 ```bash
-gh extension install trieloff/gh-workflow-peek
+gh extension install ai-ecoverse/gh-workflow-peek
 ```
 
 ✅ **Repository Topics Added** - All recommended topics have been added for discoverability
