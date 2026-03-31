@@ -16,7 +16,7 @@ jobs:
     steps:
     # Checkout the repository code
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
     
     # Install dependencies on Ubuntu
     - name: Install dependencies (Ubuntu)
